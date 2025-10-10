@@ -25,7 +25,8 @@ for i in range(1, 11):  # 1 to 15
         # Chunk this file's text
         splitter = RecursiveCharacterTextSplitter(
             chunk_size=500,  # ~500 chars/tokens
-            chunk_overlap=50  # Overlap for context continuity
+            chunk_overlap=50,  # Overlap for context continuity
+            metadata={"source": f"{i}.txt"}
         )
         file_chunks = splitter.split_text(text)
         all_chunks.extend(file_chunks)  # Add to total pool

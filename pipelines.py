@@ -3,13 +3,15 @@ from retrieval import *
 from augmentation import *
 
 
-def generate_response(generate_func, prompt, max_length):
-    return generate_func(prompt, max_length=max_length, temperature = 0.2, do_sample = False, num_return_sequences = 1 )
+def generate_response(generate_func, question, context, max_length):
+    if not context:
+        return generate_func(question=question, context="", temperature = 0.5, do_sample = True, num_return_sequences = 1, top_k=1 ,doc_stride=256,  handle_impossible_answer=True)
+    return generate_func(question=question, context=context, temperature = 0.5, do_sample = True, num_return_sequences = 1, top_k=1, doc_stride=256,handle_impossible_answer=True )
 
 def rag_pipeline(generate_func, query, embed_model, index, all_chunks, max_length=100):
     retrieved = retrieve_chunks(query, embed_model, index, all_chunks)
-    aug_prompt = augment_prompt(query, retrieved)
-    return generate_response(generate_func, aug_prompt, max_length=150)
+    context = "\n".join([chunk[0] for chunk in retrieved])
+    return generate_response(generate_func, question=query, context=context, max_length=150)
 
 
 
