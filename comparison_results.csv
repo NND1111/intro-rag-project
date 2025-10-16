@@ -1,4 +1,57 @@
 query,plain_answer,rag_answer,plain_latency,rag_latency
-What is the name of the 46th president of the United State (USA)?,I know somehthing," 20, 1942, Scranton, Pennsylvania, U.S",0.395496129989624,6.068333864212036
-Where was Biden born?,I know somehthing about Biden, Scranton,0.20204615592956543,4.905039072036743
-Has he ever visted Vietnam?,I know somehthing about, U.S,0.14642643928527832,4.973810434341431
+What was the first song made by Trinh Cong Son?,"Unfortunately, I couldn't find any reliable information on the first song written by Trinh Cong Son, a famous Vietnamese composer and songwriter. Trinh Cong Son was a prolific artist, and his works are still widely popular in Vietnam and beyond. However, I couldn't pinpoint the exact first song he created.
+
+That being said, Trinh Cong Son's music career spanned many decades, and he wrote hundreds of songs. Some of his most famous works include ""Nhung Ong Sao Dem 30"" (The Fireflies of the 30th Night), ""Diem Xua"" (The Past Moment), and ""Tinh Ta"" (Our Love). If you're interested in learning more about his music, I can try to provide more information or recommend some of his popular songs!","According to the context, Trinh Cong Son's first song was ""Uot Mi"" (Misty Eyes), which was released in 1957.
+
+Sources: article_ageless_songs_of_love_and_peace.txt",4.841829776763916,1.8997352123260498
+Where was Trinh Cong Son born?,"Trinh Cong Son was born in Dac Lac Province, Vietnam (now known as Dak Lak Province), but he grew up in Hue, Vietnam, where his family later moved.","Trinh Cong Son was born in the former royal city of Hue (now part of Dak Lak province).
+
+Sources: article_ageless_songs_of_love_and_peace.txt",1.2661898136138916,1.446826696395874
+How many songs did Trinh Cong Son produce?,"Trinh Cong Son is a renowned Vietnamese musician and songwriter. He is often referred to as the ""Bob Dylan of Vietnam"" due to his poetic and influential songwriting style.
+
+Trinh Cong Son is estimated to have written and produced over 600 songs during his lifetime, although the exact number is not well-documented. Many of his songs became iconic and beloved in Vietnamese culture, often addressing themes of love, war, and social justice.
+
+If you're interested in learning more about Trinh Cong Son's music or would like some recommendations, feel free to ask!","I don't have info on that. The provided context does not mention the total number of songs produced by Trinh Cong Son. It only mentions some of his popular songs and albums, but does not provide a comprehensive count of his entire discography.
+
+Sources: article_ageless_songs_of_love_and_peace.txt",2.3506851196289062,1.9671640396118164
+Trinh Cong Son was nickname?,"Trinh Cong Son was often nicknamed the ""Bob Dylan of Vietnam"" due to his influential and poetic songwriting, which often addressed social and political issues in Vietnam during the 1960s and 1970s.","I don't have info on that.
+
+Sources: article_ageless_songs_of_love_and_peace.txt",1.4310259819030762,1.1893815994262695
+Trinh Cong Son favorite song is ?,"Unfortunately, I couldn't find any reliable sources that mention Trinh Cong Son's favorite song. Trinh Cong Son was a prolific Vietnamese composer and songwriter, and he wrote many iconic songs that are still widely popular today. Some of his most famous songs include ""Nho Mua Thu Ha Noi"", ""Goi Ten Bon Mua"", and ""Diem Xua"". However, without further information, I couldn't pinpoint a specific song that he considered his favorite. If you have any more context or details, I'd be happy to try and help you further!","I don't have info on Trinh Cong Son's favorite song.
+
+Sources: article_ageless_songs_of_love_and_peace.txt",2.5829343795776367,1.481032371520996
+How influential was Trinh Cong Son's legacy,"Trinh Cong Son (1939-2001) was a renowned Vietnamese musician, songwriter, and painter, widely regarded as one of the most influential figures in Vietnamese music and culture. His legacy has had a profound impact on the music scene in Vietnam and beyond. Here are some aspects of his influential legacy:
+
+1. **Modernization of Vietnamese music**: Trinh Cong Son is credited with revolutionizing Vietnamese music by introducing Western instruments and harmonies, while maintaining traditional Vietnamese melodies and themes. This blend of styles created a unique sound that captivated audiences and paved the way for future generations of musicians.
+2. **Protest songs and social commentary**: During the Vietnam War, Trinh Cong Son wrote songs that addressed the human cost of conflict, love, and social justice. His music became a powerful voice for the anti-war movement and a symbol of resistance against oppression. His legacy continues to inspire artists to use their platform for social commentary and activism.
+3. **Influence on Vietnamese diaspora**: Trinh Cong Son's music played a significant role in the cultural lives of Vietnamese refugees and immigrants worldwide. His songs helped to preserve Vietnamese culture and identity, providing a sense of connection to their homeland and heritage.
+4. **Inspiration to younger generations**: Trinh Cong Son's music and legacy have inspired countless young Vietnamese musicians, many of whom have followed in his footsteps by experimenting with fusion styles and socially conscious themes.
+5. **Cultural ambassador**: Trinh Cong Son's music and art have","According to the context, Trinh Cong Son's legacy is extremely influential. His songs have struck a chord in both Vietnamese and foreign hearts, and he has been immortalized by his fans at home and abroad. His music is described as a ""river of love and peace that flows inside listeners' veins"" and is loved by millions of people across different ages and backgrounds.
+
+The fact that 14 free concerts have been organized in his memory since his death in 2001, and that his songs continue to be performed by different generations of singers, is a testament to the enduring impact of his legacy. Additionally, his songs have been translated into other languages, such as Japanese, and have become popular in other countries, further demonstrating the reach and influence of his music.
+
+The context also mentions that his fans still love to discover his songs performed by different generations, and that his music can bring people together, as evidenced by the concert ""Noi Vong Tay Lon"" (Circle of Unity), which aims to promote love, friendship, and peace. Overall, Trinh Cong Son's legacy is portrayed as one that continues to inspire, unite, and touch the hearts of people around the world.
+
+Sources: article_ageless_songs_of_love_and_peace.txt",4.95977258682251,4.4410083293914795
+Was Trinh Cong Son consider 'Bob Dylan 'of Vietnam,"What a fascinating comparison!
+
+Yes, Trinh Cong Son (1939-2001) is often referred to as the ""Bob Dylan of Vietnam"" due to his immense influence on Vietnamese music and his role as a singer-songwriter, poet, and composer. Like Dylan, Son's music addressed social issues, politics, and the human condition, resonating deeply with the Vietnamese people.
+
+During the Vietnam War, Son's music became a beacon of hope, peace, and patriotism, capturing the mood and sentiment of the nation. His songs, often melancholic and introspective, spoke to the experiences of ordinary people affected by the war, as well as the struggles of the Vietnamese people under communist rule.
+
+Son's music style, which blended traditional Vietnamese folk with Western influences, was also similar to Dylan's folk-rock sound. His poetic lyrics, often laced with metaphors and symbolism, added depth and complexity to his songs, much like Dylan's storytelling style.
+
+The ""Bob Dylan of Vietnam"" moniker is not only a testament to Son's artistic talent but also a recognition of his impact on Vietnamese culture and society. Despite facing censorship and persecution by the communist government, Son continued to write and perform music that inspired generations of Vietnamese people.
+
+Today, Trinh Cong Son's legacy endures, and his music remains an integral part of Vietnamese cultural heritage, with many regarding him as one of the greatest Vietnamese musicians of all time.","I don't have info on that. The provided context does not mention Trinh Cong Son being considered the ""Bob Dylan of Vietnam."" However, it does describe him as a renowned songwriter who has struck a chord in both Vietnamese and foreign hearts with his songs of love and peace, and that he has been immortalized by his fans at home and abroad.
+
+Sources: article_ageless_songs_of_love_and_peace.txt",4.569571495056152,2.218799114227295
+DId Trinh Cong Son write antiwar songs?,"Yes, Trinh Cong Son was a Vietnamese musician and songwriter who wrote many anti-war songs during the Vietnam War. His music often dealt with themes of love, loss, and the human cost of war, and he is widely regarded as one of the most influential and important Vietnamese musicians of the 20th century.
+
+Trinh Cong Son's anti-war songs were often subtle and poetic, using metaphor and imagery to convey his messages rather than direct protest or propaganda. This approach allowed him to express his opposition to the war without being too overtly confrontational, which was important in a time when censorship and repression were widespread.
+
+Some of his most famous anti-war songs include ""Nha Trang Mua Nay"" (""Nha Trang This Year""), ""Gia Tai Cua Me"" (""Mother's Legacy""), and ""Ta Ve Nhin Lai"" (""We Look Back""). These songs have become iconic in Vietnamese music and continue to be widely performed and admired today.
+
+Trinh Cong Son's music was not only popular in Vietnam but also gained international recognition, and he is often credited with helping to bring attention to the human impact of the Vietnam War through his songs.","Yes, according to the context, Trinh Cong Son composed several anti-war songs that were popular during the American War.
+
+Sources: article_ageless_songs_of_love_and_peace.txt",4.250161647796631,1.6152844429016113
